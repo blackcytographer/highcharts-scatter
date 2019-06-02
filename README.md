@@ -1,8 +1,8 @@
-# highcharts-scatter-csv
+# highcharts-scatter
 Highcharts XY scatter chart template with CSV data
 
 ## link to live chart (replace with your own link)
-https://blackcytographer.github.io/highcharts-scatter-csv/
+https://blackcytographer.github.io/highcharts-scatter/
 
 ## license
 http://www.highcharts.com is free for personal websites, school sites, or non-profit organizations. Commercial use requires the purchase of a license.
