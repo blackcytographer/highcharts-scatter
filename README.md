@@ -16,4 +16,4 @@ http://www.highcharts.com is free for personal websites, school sites, or non-pr
 - see data details at https://github.com/ontheline/otl-scatter-districts-income-grades
 
 ## learn more at DataVizForAll.org book
-- Tutorial: Modify and Host a Highcharts Scatter Chart Template on GitHub, https://datavizforall.org
+
